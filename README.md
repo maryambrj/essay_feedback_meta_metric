@@ -1,4 +1,4 @@
-# **Evaluation of Metrics and Models for Automated Essay Scoring and Feedback Generation**
+# **Evaluation of Metrics for Automated Essay Feedback Generation**
 
 This repository contains code and resources for evaluating various models and metrics for automated essay scoring (AES) and feedback generation. The project focuses on fine-tuning language models on the PeerRead dataset to generate qualitative feedback similar to human reviewers.
 
